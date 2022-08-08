@@ -74,8 +74,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
-  title_font: '"Times New Roman", chiller'
-  body_font: '"Times New Roman", chiller'
+  title_font: '"Baskerville", chiller'
+  body_font: '"Baskerville", chiller'
   regular_weight: 300
   bold_weight: 500
   site_title:

@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: Kate Vinson Art
 
 grid_settings:
   overlay_opacity: 0.8
@@ -74,8 +74,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
-  title_font: '"Poppins", sans-serif'
-  body_font: '"Poppins", sans-serif'
+  title_font: '"Times New Roman", chiller'
+  body_font: '"Times New Roman", chiller'
   regular_weight: 300
   bold_weight: 500
   site_title:

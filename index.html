@@ -1,27 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>K8 Vinson Art</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
-  </head>
-  <body>
-      <!-- <script src="index.js"></script> -->
-      </html>
-      hi kate :)
-      <br>
-      I love you
-      
-      <br>
-      <br>
+---
+layout: default
+title: A stylish full-width masonry grid theme.
+description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+featured_image: /images/social.jpg
+---
 
-      <img src="images/image847.png" width="400px">
+<section class="listing">
 
-      <br>
-      <br>
+	<div class="content-wrap listing-wrap">
 
-      More K8 masterpieces to come
+		{% for project in site.projects reversed %}
 
-  </body>
+		<div class="listing-item">
+
+			<a class="listing-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="listing-item__image">
+					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+					<div class="listing-item__info">
+						<h2 class="listing-item__title">{{ project.title }}</h2>
+						<p class="listing-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>

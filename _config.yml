@@ -1,7 +1,7 @@
 site: Kate Vinson Art
 
-url: katevinsonart.com
-baseurl: katevinsonart.com
+url:
+baseurl:
 
 collections:
   pages:

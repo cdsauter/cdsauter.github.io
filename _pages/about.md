@@ -1,13 +1,17 @@
 ---
-title: About Board
-subtitle: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-description: Board is a stylish full-width masonry grid theme.
-featured_image: /images/demo/landscape-05.jpg
+title: About  Me
+subtitle: My name is Kate Vinson, and I am a 19-year-old self-taught painter from Texas.
+description: About me.
+featured_image: /images/image0.jpg
 ---
 
-![](/images/demo/landscape-05.jpg)
+![](/images/image0.jpg)
 
-## Features
+My name is Kate Vinson, and I am a 19-year-old self-taught painter from Texas. I currently live in Chicago to attend North Park University. I am a business major with a love for humanities such as writing, philosophy, and art. (Yes, these are very contradictory interests) 
+
+I am most inspired by the impressionist artist Claude Monet. I love to see his interpretation of nature, specifically his famous lilypads. However, I am far more drawn to cityscapes and locations I have lived in or visited, for this is my nature. If you look at my portfolio, you will find countless paintings of Italian streets, followed by portraits, cats, oceans, sailboats, and most importantly, my everlasting love for the Fiat 500. Thank you for visiting my website. I hope you enjoy my art just as much as I love creating it. 
+
+<!-- ## Features
 
 We've packed Board full of powerful features to help showcase your work:
 
@@ -31,4 +35,4 @@ We've packed Board full of powerful features to help showcase your work:
 
 Board is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->

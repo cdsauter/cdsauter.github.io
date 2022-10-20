@@ -2,14 +2,14 @@
 title: About  Me
 subtitle: My name is Kate Vinson, and I am a 19-year-old self-taught painter from Texas.
 description: About me.
-featured_image: /images/image0.jpg
+featured_image: /images/image0.jpeg
 ---
 
-![](/images/image0.jpg)
+![](/images/image0.jpeg)
 
 My name is Kate Vinson, and I am a 19-year-old self-taught painter from Texas. I currently live in Chicago to attend North Park University. I am a business major with a love for humanities such as writing, philosophy, and art. (Yes, these are very contradictory interests) 
 
-I am most inspired by the impressionist artist Claude Monet. I love to see his interpretation of nature, specifically his famous lilypads. However, I am far more drawn to cityscapes and locations I have lived in or visited, for this is my nature. If you look at my portfolio, you will find countless paintings of Italian streets, followed by portraits, cats, oceans, sailboats, and most importantly, my everlasting love for the Fiat 500. Thank you for visiting my website. I hope you enjoy my art just as much as I love creating it. 
+I am most inspired by the impressionist artist Claude Monet. I love to see his interpretation of nature, specifically his famous water lillies. However, I am far more drawn to cityscapes and locations I have lived in or visited, for this is my nature. If you look at my portfolio, you will find countless paintings of Italian streets, followed by portraits, cats, oceans, sailboats, and most importantly, my everlasting love for the Fiat 500. Thank you for visiting my website. I hope you enjoy my art just as much as I love creating it. 
 
 <!-- ## Features
 
